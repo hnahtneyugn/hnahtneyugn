@@ -1,4 +1,5 @@
-## Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rye&duration=3000&pause=500&color=F7C715&vCenter=true&width=435&lines=Xin+chao+%F0%9F%91%8B+;The+name's+Thanh%2C+Nguyen+Thanh+%F0%9F%98%8E;Dream+to+be+a+Data+Engineer+!+%F0%9F%9A%80+)](https://git.io/typing-svg)
+
 
 <!--
 **hnahtneyugn/hnahtneyugn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rye&duration=3000&pause=500&color=F7C715&vCenter=true&width=435&lines=Xin+chao+%F0%9F%91%8B+;The+name's+Thanh%2C+Nguyen+Thanh+%F0%9F%98%8E;Dream+to+be+a+Data+Engineer+!+%F0%9F%9A%80+)](https://git.io/typing-svg)
 
